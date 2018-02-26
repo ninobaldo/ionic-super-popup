@@ -1,6 +1,9 @@
 {
   "name": "ionic-super-popup",
-  "main": [ "dist/"],
+  "main": [ 
+    "dist/ionic-super-popup.css",
+    "dist/ionic-super-popup.js" 
+  ],
   "authors": [
     "garrettmac <garrettmacmac@gmail.com>"
   ],
